@@ -1,0 +1,6 @@
+{
+  "name": "AdCraft AI - Direct Response Ad Copywriter",
+  "description": "Expert Direct Response Ad Copywriter & Marketing Strategy Generator creating unique high-converting ad concepts, hooks, scripts, captions, and image copy in Bangla & English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
