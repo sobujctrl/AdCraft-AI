@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import { X, Trash2, Search, Calendar, Copy, Download, ExternalLink, BookmarkCheck } from 'lucide-react';
-import { SavedCampaign, AdConcept } from '../types';
-
+import { SavedCampaign, AdConcept } from '../../types';
 interface SavedCampaignsDrawerProps {
   isOpen: boolean;
   onClose: () => void;
