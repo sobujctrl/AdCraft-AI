@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Header } from './components/Header';
 import { InputSection } from './components/InputSection';
 import { ConceptCard } from './components/ConceptCard';
-import { SavedCampaignsDrawer } from "./components/ConceptCard/SavedCampaignsDrawer";
+import { SavedCampaignsDrawer } from "./components/SavedCampaignsDrawer";
 import { AdConcept, AdGenerationParams, LanguageType, SavedCampaign } from './types';
 import { Sparkles, AlertCircle, Layers, RefreshCw, CheckCircle2 } from 'lucide-react';
 
